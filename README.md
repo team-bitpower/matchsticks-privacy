@@ -1,7 +1,7 @@
 # Matchsticks — Privacy policy
 
-Public privacy policy for the Matchsticks / Chibrituri mobile app.
+Public privacy policy for the Matchsticks / Chibrituri mobile app (Bit Power).
 
-Source game repository stays private. This repo only hosts the policy page for Google Play / App Store.
+The game source repository stays private. This repo only hosts the policy page for Google Play / App Store.
 
-Live page: https://danieltutuianu.github.io/matchsticks-privacy/
+Live page: https://team-bitpower.github.io/matchsticks-privacy/
